@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "name": "Abhishek Anand",
+    "role": "Full-Stack Software Engineer",
+    "status": "Available for opportunities",
+    "email": "abhishekanandsm0311@gmail.com",
+    "phone": "+91 7033913098",
+    "github": "https://github.com/avismic",
+    "linkedin": "https://linkedin.com/in/avismic",
+    "summary": "Full-stack software engineer specializing in scalable backend systems, Java, Spring Boot, and AWS cloud infrastructure. Experienced in API security, microservices architecture, and real-time observability."
+  },
+  "stats": [
+    { "label": "Primary Tech Stack", "value": "Java / Spring / AWS" },
+    { "label": "Architecture Focus", "value": "Microservices & Cloud" },
+    { "label": "Observability Tools", "value": "Splunk & OpenTelemetry" }
+  ],
+  "experience": [
+    {
+      "role": "Software Engineer Intern",
+      "company": "Bounteous",
+      "location": "Hyderabad",
+      "period": "Feb 2026 - Present",
+      "highlights": [
+        "Built and deployed cloud-native services on AWS (Lambda, EC2, VPC, S3, DynamoDB, CloudWatch) and integrated Okta-based authentication/authorization into application workflows.",
+        "Designed PostgreSQL and Redis schemas for efficient data access, and performed performance monitoring and debugging of services using Splunk, Honeycomb, and OpenTelemetry.",
+        "Contributing to an enterprise migration from a monolithic architecture to microservices using Java, Spring Boot, and Angular deployed across Azure/CentOS.",
+        "Integrated Next.js and React frontend modules with RESTful APIs in an Agile environment."
+      ]
+    },
+    {
+      "role": "Java Full-Stack Trainee",
+      "company": "Cognizant",
+      "location": "Remote",
+      "period": "Jun 2025 - Aug 2025",
+      "highlights": [
+        "Built full-stack features using Spring Boot REST microservices, Spring MVC presentation layer, and MySQL persistence via JDBC/JPA.",
+        "Validated proficiency in core Java 17, OOP design patterns, SQL optimization, and algorithms through multi-stage FSE technical assessments."
+      ]
+    },
+    {
+      "role": "iAspire Trainee",
+      "company": "Accenture",
+      "location": "Remote",
+      "period": "Nov 2024 - Jan 2025",
+      "highlights": [
+        "Built foundational knowledge of cybersecurity, cloud computing, and data engineering supporting B2B/B2C service development."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "MayoCity",
+      "category": "Talent Platform",
+      "subtitle": "Full-Stack Job Board & AI Moderation",
+      "tech": ["Next.js", "TypeScript", "PostgreSQL", "NextAuth", "Gemini API"],
+      "highlights": [
+        "Built full-stack job board connecting job seekers and employers with advanced search and CSV bulk imports.",
+        "Implemented secure admin authentication and an AI-assisted moderation dashboard using Google Gemini API.",
+        "Designed a scalable REST API with PostgreSQL persistence and real-time data fetching (SWR), deployed on Vercel."
+      ]
+    },
+    {
+      "title": "VectorShift",
+      "category": "Developer Tooling",
+      "subtitle": "Visual Workflow Builder",
+      "tech": ["React", "React Flow", "FastAPI", "Python"],
+      "highlights": [
+        "Built a drag-and-drop pipeline builder supporting 9 node types via a declarative configuration system.",
+        "Implemented FastAPI backend validating pipeline graphs with DAG cycle detection and topological execution."
+      ]
+    }
+  ],
+  "skills": {
+    "Languages": ["Java", "Python", "JavaScript", "TypeScript", "C/C++"],
+    "Backend & Cloud": [
+      "Spring Boot",
+      "REST APIs",
+      "Microservices",
+      "AWS (Lambda, EC2, VPC, S3)",
+      "FastAPI",
+      "Node.js"
+    ],
+    "Security & Auth": ["OAuth", "Okta", "JWT"],
+    "Observability & DB": [
+      "Splunk",
+      "Honeycomb",
+      "OpenTelemetry",
+      "PostgreSQL",
+      "MySQL",
+      "Redis"
+    ],
+    "Tools & Practices": ["Git", "GitHub Actions", "Docker", "Agile", "TDD/BDD"]
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Electronics and Communication Engineering",
+      "institution": "Haldia Institute of Technology",
+      "period": "2022 - 2026"
+    }
+  ]
+}
