@@ -43,7 +43,9 @@
       "location": "Remote",
       "period": "Nov 2024 - Jan 2025",
       "highlights": [
-        "Built foundational knowledge of cybersecurity, cloud computing, and data engineering supporting B2B/B2C service development."
+        "Acquired extensive knowledge in cybersecurity, cloud computing, and data engineering, enhancing technical skills relevant to Accenture's projects.",
+        "Gained practical experience in application security, network fundamentals, and web application security, supporting both B2B and B2C service development.",
+        "Built a strong foundation in ITIL 4, RPA, and end-to-end cyber risk management, contributing to robust software development and operations."
       ]
     }
   ],
@@ -60,6 +62,24 @@
       ]
     },
     {
+      "title": "Kafka",
+      "category": "Hotel Operations Platform",
+      "subtitle": "Full-Stack Hotel Management & Staff Task PWA",
+      "tech": [
+        "Node.js",
+        "Express.js",
+        "PostgreSQL",
+        "JavaScript (ES6+)",
+        "Service Workers",
+        "JWT"
+      ],
+      "highlights": [
+        "Built a modular, zero-framework Progressive Web Application (PWA) with offline caching via Service Workers and an Apple-inspired minimalist design system.",
+        "Implemented secure JWT authentication with Role-Based Access Control (RBAC) for managers and staff, supporting bulk CSV import/export for employee directory management.",
+        "Architected a Node.js and Express REST API backed by PostgreSQL (Neon DB) featuring live task monitoring, status lifecycle tracking, and dynamic pagination."
+      ]
+    },
+    {
       "title": "VectorShift",
       "category": "Developer Tooling",
       "subtitle": "Visual Workflow Builder",
@@ -67,6 +87,17 @@
       "highlights": [
         "Built a drag-and-drop pipeline builder supporting 9 node types via a declarative configuration system.",
         "Implemented FastAPI backend validating pipeline graphs with DAG cycle detection and topological execution."
+      ]
+    },
+    {
+      "title": "Bloom",
+      "category": "Productivity Tool",
+      "subtitle": "Interactive Syllabus & Prep Progress Tracker",
+      "tech": ["JavaScript (ES6+)", "HTML5", "CSS3", "LocalStorage", "JSON"],
+      "highlights": [
+        "Built an interactive prep tracking web app supporting multi-track syllabi (DSA, System Design, Competitive Exams) loaded dynamically from decoupled JSON datasets.",
+        "Implemented real-time progress calculations with sticky progress headers, status filtering (All / To Do / Done), and live search across topics.",
+        "Designed a custom searchable track dropdown component and client-side persistence using LocalStorage for uninterrupted session state."
       ]
     }
   ],
